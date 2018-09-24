@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Udemy
+Icon=${SNAP}/meta/gui/icon.png
+Categories=Internet
+Exec=udemy
+Terminal=false
